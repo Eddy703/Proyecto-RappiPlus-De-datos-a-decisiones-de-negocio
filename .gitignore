@@ -1,0 +1,5 @@
+# Configuración local y credenciales de bases de datos
+.env
+
+# Archivos temporales de Jupyter Notebook
+.ipynb_checkpoints/
